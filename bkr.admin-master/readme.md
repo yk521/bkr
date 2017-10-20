@@ -1,5 +1,4 @@
-bkr
-XX管理系统
+# XX管理系统 #
 
 
 # 关于bkr.admin #
