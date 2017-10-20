@@ -1,0 +1,16 @@
+{
+	"dev": {
+		"ENV": "dev",
+		"API.BASE": "http://47.95.1.227:8081",
+		"UPLOAD_DOMAIN": "http://ouq085d8z.bkt.clouddn.com"
+	},
+	"test": {
+		"ENV": "test",
+		"API.BASE": "http://localhost:9005",
+		"UPLOAD_DOMAIN": "http://oc3g3d3gr.bkt.clouddn.com/"
+	},
+	"production": {
+
+	}
+}
+
